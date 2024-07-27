@@ -1,0 +1,12 @@
+MANIFEST
+build/
+dist/
+namcap.egg-info/
+__pycache__/
+*.pyc
+*.swp
+*~
+.coverage
+.mypy_cache/
+coverage.xml
+htmlcov/
